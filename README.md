@@ -1,3 +1,7 @@
 # aula09-12
-![estrelado](https://user-images.githubusercontent.com/99209348/171054686-1c421d27-a223-47e1-9997-5e4eb123e5e2.jpg)
+## Meu Primeiro HTML no Git
+O que é o GitHub segundo o Wikipédia?
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+![Céu estrelado](https://github.com/AnaEliseM/aula09-12/blob/main/estrelado.jpg)
 
